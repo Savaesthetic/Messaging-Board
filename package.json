@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Savaesthetic/Messaging-Board/issues"
   },
-  "homepage": "https://github.com/Savaesthetic/Messaging-Board#readme",
+  "homepage": "https://github.com/Savaesthetic/Messaging-Board",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
